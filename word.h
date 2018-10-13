@@ -1,0 +1,6 @@
+struct Word{
+
+  Word();
+  
+  
+};
